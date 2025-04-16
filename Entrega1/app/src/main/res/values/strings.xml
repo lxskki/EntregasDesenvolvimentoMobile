@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">N1-1</string>
+    <string name="escolha_o_seu_produto">Escolha o seu produto:</string>
+    <string name="calcular">Calcular</string>
+    <string name="coca">Coca-Cola(3,00)</string>
+    <string name="carne">Carne(16,70)</string>
+    <string name="feijao">Feijão(3,38)</string>
+    <string name="leite">Leite(2,70)</string>
+    <string name="arroz">Arroz(2,69)</string>
+</resources>
